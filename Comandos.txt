@@ -1,6 +1,0 @@
-Para clonar o repositório ultilizei o comando "git clone" e depois dele colei a URL do meu repositório.
-Para adicionar os arquivos ultiziei o comando "git add "Nome.txt"" e em seguida em ultilizei o comando "git add "Comandos.txt"".
-Para verificar se os arquivos tinham sido adicionados ultilizei o comando "git status".
-Para enviar os arquivos para commit ultilizei o comando "git commit -m "Prova final"".
-Para enviar os arquivos para o repositório onile ultilazei o comando "git push origin master".
-
